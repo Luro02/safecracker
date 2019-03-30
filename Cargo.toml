@@ -1,0 +1,12 @@
+[package]
+name = "safecracker"
+version = "0.0.1"
+authors = ["lucas"]
+keywords = ["nintendo", "keys", "switch"]
+description = "A placeholder for a future crate (ETA is August 2019)"
+edition = "2018"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/Luro02/safecracker.git"
+categories = []
+
+[dependencies]
